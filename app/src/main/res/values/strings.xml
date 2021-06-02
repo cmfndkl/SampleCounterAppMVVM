@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="plusOne">+1</string>
+    <string name="app_name2">MVVM Sample</string>
+</resources>
