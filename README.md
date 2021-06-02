@@ -6,4 +6,4 @@ This repo contains a counter app example with mvvm architecture.
 
 ## GIF
 
-![](mvvmGif.gif)
+<img src="mvvmGif.gif" width="250" height="500"/>
